@@ -1,0 +1,7 @@
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\bin\Debug\Databases ADO.NET.exe.config
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\bin\Debug\Databases ADO.NET.exe
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\bin\Debug\Databases ADO.NET.pdb
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\obj\Debug\Databases ADO.NET.csprojAssemblyReference.cache
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\obj\Debug\Databases ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\obj\Debug\Databases ADO.NET.exe
+C:\Users\dehan\source\repos\Databases ADO.NET\Databases ADO.NET\obj\Debug\Databases ADO.NET.pdb
